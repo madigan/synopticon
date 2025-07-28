@@ -10,11 +10,11 @@
 
 ## Installation
 
-*Coming soon!*
+_Coming soon!_
 
 ## Development
 
-*Coming Soon!*
+_Coming Soon!_
 
 ## Roadmap
 

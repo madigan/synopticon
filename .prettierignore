@@ -1,0 +1,18 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.vite
+
+# Electron specific
+out/
+dist/
+.webpack/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment and config
+.env*
