@@ -27,6 +27,8 @@
  */
 
 import './index.css';
+import 'virtual:uno.css';
+import '@unocss/reset/normalize.css';
 
 console.log(
   '👋 This message is being logged by "renderer.ts", included via Vite'

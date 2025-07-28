@@ -13,7 +13,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
-  "keywords": ["kpm"],
+  "keywords": [
+    "kpm"
+  ],
   "author": {
     "name": "John Lynn",
     "email": "lynnjonathanp@gmail.com"
@@ -32,15 +34,19 @@
     "@types/electron-squirrel-startup": "^1.0.2",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
+    "@unocss/preset-mini": "^66.3.3",
+    "@unocss/preset-web-fonts": "^66.3.3",
     "electron": "37.2.4",
     "eslint": "^8.57.1",
     "eslint-plugin-import": "^2.32.0",
     "prettier": "3.6.2",
     "ts-node": "^10.9.2",
     "typescript": "~4.5.4",
+    "unocss": "^66.3.3",
     "vite": "^7.0.6"
   },
   "dependencies": {
+    "@unocss/reset": "^66.3.3",
     "electron-squirrel-startup": "^1.0.1"
   }
 }
