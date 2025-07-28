@@ -29,7 +29,7 @@
 import './index.css';
 import 'virtual:uno.css';
 import '@unocss/reset/normalize.css';
+import { createApp } from 'vue';
+import App from './App.vue';
 
-console.log(
-  '👋 This message is being logged by "renderer.ts", included via Vite'
-);
+createApp(App).mount('#app');
